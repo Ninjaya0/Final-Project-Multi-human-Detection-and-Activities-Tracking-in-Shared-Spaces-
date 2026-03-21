@@ -6,7 +6,7 @@ ALL code are submitted into two formates
  1- (.py)  / 2- (.ipynb)
 Some notebooks may show errors when viewed on GitHub. This is expected — they require specific uploaded files (videos, trained models, CSV data) and an active runtime session to execute. The errors do not indicate broken code; they occur because the session expired or the required input files are not present in the repository.
 
-
+A multimodal system that automatically detects and classifies tennis strokes (Forehand, Backhand, Serve) using three independent sensors  camera, audio, and elbow accelerometer  and fuses them into a single prediction. Extended to detect two players simultaneously in the same frame.
 
 
 
