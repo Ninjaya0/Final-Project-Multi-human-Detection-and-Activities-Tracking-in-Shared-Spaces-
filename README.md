@@ -10,6 +10,7 @@ A multimodal system that automatically detects and classifies tennis strokes (Fo
 
 
 
+I have build ball speed dedector app trail using YOLO for ball detecion and measure the ball using frames -- > https://speed-ten.netlify.app/
 
 
 
