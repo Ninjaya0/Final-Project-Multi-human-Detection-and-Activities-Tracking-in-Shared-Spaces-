@@ -25,3 +25,7 @@ I have build ball speed dedector app trail using YOLO for ball detecion and meas
 3- https://drive.google.com/file/d/1MNFx1f49VrhTMWKF94w17Z3DInD38nV6/view?usp=sharing
 
 4- https://drive.google.com/file/d/1r_L2bkSDnc1GpTRGKxLVlcnJWKC-CTDR/view?usp=sharing
+
+5- https://drive.google.com/file/d/1Yh0Tr77tGtftsbQQBMLVNNGwRwfRWzbo/view?usp=sharing
+
+6- https://drive.google.com/file/d/1FuOgwaagd7nj1n6xnG8qtblIly9IPBm1/view?usp=sharing
